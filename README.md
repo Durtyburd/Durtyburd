@@ -24,9 +24,6 @@ I am an independent full-stack developer who enjoys learning new technologies an
 ***
 
 ## :bar_chart: Statistics
-![lklk](https://github.com/Durtyburd/github-stats/blob/master/generated/overview.svg)
-![lklnklnkl](https://github.com/Durtyburd/github-stats/blob/master/generated/languages.svg)
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Durtyburd&langs_count=5&theme=tokyonight)]()
 </br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Durtyburd&count_private=true&theme=tokyonight&showicons=true)]()
