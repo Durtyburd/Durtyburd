@@ -24,8 +24,8 @@ I am an independent full-stack developer who enjoys learning new technologies an
 ***
 
 ## :bar_chart: Statistics
-[![Durtyburd](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![Durtyburd](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Durtyburd&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Durtyburd&langs_count=5&theme=tokyonight)]()
 
 <!--
 **Durtyburd/Durtyburd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
