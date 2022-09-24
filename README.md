@@ -25,6 +25,7 @@ I am an independent full-stack developer who enjoys learning new technologies an
 
 ## :bar_chart: Statistics
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Durtyburd&count_private=true&theme=tokyonight&showicons=true)]()
+</br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Durtyburd&langs_count=5&theme=tokyonight)]()
 
 <!--
