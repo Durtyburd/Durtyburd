@@ -28,7 +28,7 @@ I am an independent full-stack developer who enjoys learning new technologies an
 ![](https://raw.githubusercontent.com/Durtyburd/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
-(https://github.com/jstrieb/github-stats)
+
 
 <!--
 **Durtyburd/Durtyburd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
