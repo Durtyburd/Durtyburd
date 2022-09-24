@@ -1,4 +1,6 @@
-### :wave: Seth Perritt 
+### :grinning: Seth Perritt 
+
+`Digital Craftsman (Programmer)`
 
 <!--
 **Durtyburd/Durtyburd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
