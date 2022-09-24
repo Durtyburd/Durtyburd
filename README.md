@@ -1,5 +1,4 @@
 ### :grinning: Seth Perritt 
----
 
 `Digital Craftsman (Developer/Creator)`
 
